@@ -29,12 +29,12 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
 [Languages.vi]
-title = "First Cloud AI Journey - Bao cao thuc tap"
+title = "First Cloud AI Journey - Báo cáo thực tập"
 weight = 2
-label = "Tieng Viet"
+label = "Tiếng Việt"
 
 [[Languages.vi.menu.shortcuts]]
-name = "<i class='fab fa-facebook'></i> Nhom Facebook FCAJ"
+name = "<i class='fab fa-facebook'></i>&nbsp;Nhóm Facebook FCAJ"
 identifier = "FCAJ Group"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
