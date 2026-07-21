@@ -158,6 +158,21 @@ a:hover {
   color: #e07d04 !important;
 }
 
+#prefooter a.padding {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+#prefooter .fa-language {
+  margin-right: 2px;
+}
+
+#prefooter .select-style {
+  display: inline-flex;
+  align-items: center;
+}
+
 div.notices p:first-child:before {
   position: absolute;
   top: 2px;
