@@ -1,0 +1,45 @@
+baseURL = "https://HoangAnhNguyenTran.github.io/workshop/"
+relativeURLs = false
+canonifyURLs = false
+defaultContentLanguage = "en"
+theme = "hugo-theme-learn"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+  themeVariant = "workshop"
+  editURL = ""
+  description = ""
+  author = ""
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+
+[Languages]
+[Languages.en]
+title = "First Cloud AI Journey - Internship Report"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> FCAJ Facebook Group"
+identifier = "FCAJ Group"
+url = "https://www.facebook.com/groups/awsstudygroupfcj"
+weight = 20
+
+[Languages.vi]
+title = "First Cloud AI Journey - Bao cao thuc tap"
+weight = 2
+languageName = "Tieng Viet"
+
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> Nhom Facebook FCAJ"
+identifier = "FCAJ Group"
+url = "https://www.facebook.com/groups/awsstudygroupfcj"
+weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
