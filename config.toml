@@ -1,4 +1,4 @@
-baseURL = "https://HoangAnhNguyenTran.github.io/workshop/"
+baseURL = "https://hoanganhnguyentran.github.io/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -20,7 +20,7 @@ home = ["HTML", "RSS", "JSON"]
 [Languages.en]
 title = "First Cloud AI Journey - Internship Report"
 weight = 1
-languageName = "English"
+label = "English"
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> FCAJ Facebook Group"
@@ -31,7 +31,7 @@ weight = 20
 [Languages.vi]
 title = "First Cloud AI Journey - Bao cao thuc tap"
 weight = 2
-languageName = "Tieng Viet"
+label = "Tieng Viet"
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> Nhom Facebook FCAJ"
