@@ -14,15 +14,25 @@ chapter: false
 ## Thông tin thực tập
 
 &emsp; **Họ và tên:** Nguyễn Trần Hoàng Anh
+
 &emsp; **Số điện thoại:** 0786122348
+
 &emsp; **Email:** nguyentranhoanganhk4@gmail.com
+
 &emsp; **Trường:** HUTECH - Trường Đại học Công nghệ TP. HCM
+
 &emsp; **Chuyên ngành:** Công nghệ phần mềm
+
 &emsp; **Lớp:** 22DTHH3/AWS052026
+
 &emsp; **Chương trình thực tập:** First Cloud AI Journey (FCAJ)
+
 &emsp; **Đơn vị thực tập:** Công ty TNHH Amazon Web Services Việt Nam
+
 &emsp; **Cán bộ hướng dẫn tại đơn vị:** Nguyễn Gia Hưng
+
 &emsp; **Giảng viên hướng dẫn tại trường:** Nguyễn Hoàng Nam (HUTECH)
+
 ![Ảnh đại diện](/images/avatar.jpg)
 
 ## Điều hướng nhanh
