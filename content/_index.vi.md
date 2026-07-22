@@ -1,6 +1,6 @@
 ---
 title: "Báo cáo thực tập"
-date: 2026-07-21
+date: 2026-07-22
 weight: 1
 chapter: false
 ---
@@ -13,13 +13,17 @@ chapter: false
 
 ## Thông tin thực tập
 
-- Họ và tên: Nguyễn Trần Hoàng Anh
-- Trường: HUTECH - Khoa Công nghệ thông tin
-- Chuyên ngành: Công nghệ phần mềm
-- Chương trình thực tập: First Cloud AI Journey (FCAJ)
-- Đơn vị thực tập: Công ty TNHH Amazon Web Services Việt Nam
-- Cán bộ hướng dẫn tại đơn vị: Nguyễn Gia Hưng
-- Giảng viên hướng dẫn tại trường: Nguyễn Hoàng Nam (HUTECH)
+&emsp; **Họ và tên:** Nguyễn Trần Hoàng Anh
+&emsp; **Số điện thoại:** 0786122348
+&emsp; **Email:** nguyentranhoanganhk4@gmail.com
+&emsp; **Trường:** HUTECH - Trường Đại học Công nghệ TP. HCM
+&emsp; **Chuyên ngành:** Công nghệ phần mềm
+&emsp; **Lớp:** 22DTHH3/AWS052026
+&emsp; **Chương trình thực tập:** First Cloud AI Journey (FCAJ)
+&emsp; **Đơn vị thực tập:** Công ty TNHH Amazon Web Services Việt Nam
+&emsp; **Cán bộ hướng dẫn tại đơn vị:** Nguyễn Gia Hưng
+&emsp; **Giảng viên hướng dẫn tại trường:** Nguyễn Hoàng Nam (HUTECH)
+![Ảnh đại diện](/images/avatar.jpg)
 
 ## Điều hướng nhanh
 
@@ -27,9 +31,11 @@ chapter: false
 2. [Bản đề xuất](2-Proposal/)
 3. [Các bài viết đã đăng](3-BlogsPosted/)
 4. [Sự kiện đã tham gia](4-EventParticipated/)
-5. [Thực hành CloudBrief](5-Workshop/)
+5. [Workshop](5-Workshop/)
 6. [Tự đánh giá](6-Self-evaluation/)
 7. [Chia sẻ và phản hồi](7-Feedback/)
+
+{{< video src="videos/demo.mp4" >}}
 
 ## Cộng đồng
 

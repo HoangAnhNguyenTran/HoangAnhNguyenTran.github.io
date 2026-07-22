@@ -1,0 +1,27 @@
+
+During my internship in the First Cloud AI Journey (FCAJ) program organized by Amazon Web Services Vietnam Co., Ltd., **from May 5, 2026 to July 30, 2026**, I had the opportunity to experience a professional working environment and apply the theoretical knowledge gained at university to practical cloud computing projects. Under the guidance of my industry mentor, Mr. Nguyen Gia Hung, I strengthened my technical knowledge while developing essential workplace skills.
+
+Throughout the internship, I participated in deploying cloud infrastructure on AWS, configuring networking and security services, building a highly available web application architecture, and collaborating with teammates on workshop-based assignments. These activities enhanced my understanding of cloud architecture, infrastructure management, documentation practices, collaboration, and independent learning. I consistently completed assigned tasks responsibly, respected the internship regulations, and actively sought feedback from mentors and teammates to continuously improve my performance.
+
+To summarize my internship experience, I provide the following self-evaluation:
+
+| No. | Evaluation Criteria | Description | Good | Fair | Average |
+|-----|----------------------|-------------|:----:|:----:|:------:|
+| 1 | Technical knowledge | Understanding cloud concepts and applying technical skills in practice | ✅ | ☐ | ☐ |
+| 2 | Learning ability | Quickly adapting to new technologies and acquiring new knowledge | ✅ | ☐ | ☐ |
+| 3 | Initiative | Taking ownership of assigned work and actively supporting the team | ✅ | ☐ | ☐ |
+| 4 | Responsibility | Delivering assigned tasks on schedule with acceptable quality | ✅ | ☐ | ☐ |
+| 5 | Discipline | Following working hours, internship policies, and internal procedures | ☐ | ✅ | ☐ |
+| 6 | Continuous improvement | Accepting feedback and making efforts to improve performance | ✅ | ☐ | ☐ |
+| 7 | Communication | Communicating technical ideas and reporting progress effectively | ☐ | ✅ | ☐ |
+| 8 | Team collaboration | Cooperating effectively with teammates in project activities | ✅ | ☐ | ☐ |
+| 9 | Professional attitude | Demonstrating respect, responsibility, and professionalism | ✅ | ☐ | ☐ |
+| 10 | Analytical & problem-solving skills | Identifying issues and proposing practical solutions | ☐ | ✅ | ☐ |
+| 11 | Contribution to the team | Supporting project objectives and contributing to team outcomes | ✅ | ☐ | ☐ |
+| 12 | Overall performance | Overall assessment of internship performance | ✅ | ☐ | ☐ |
+
+## Areas for Improvement
+
+- Develop stronger time management habits to consistently follow schedules and organizational procedures.
+- Improve analytical thinking and troubleshooting skills when working with cloud infrastructure and distributed systems.
+- Strengthen communication skills, especially when presenting technical ideas, documenting solutions, and providing progress updates.
