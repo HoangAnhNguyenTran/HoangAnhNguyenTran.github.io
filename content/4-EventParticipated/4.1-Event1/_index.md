@@ -12,7 +12,7 @@ pre: " <b> 4.1. </b> "
 - Location: AWS office, Ho Chi Minh City
 - Role: Attendee
 
-## Main highlights included:
+## Main highlights included
 
 - Knowledge Sharing & Direction: Shape an effective learning mindset, accumulate practical AWS cloud computing knowledge, and explore AI application trends in IT career orientation.
 - Community Networking: Expand the connection network among young individuals sharing personal development goals and a passion for Cloud/AI technologies within the FCAJ community.
