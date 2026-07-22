@@ -141,41 +141,41 @@ The project deploys in `us-east-1`. Amazon Bedrock access must include `amazon.n
 
 Open **IAM > Users**, then choose **Create user**.
 
-![Open the IAM user list](/images/5-Workshop/5.2-Prerequisite/iam-01-existing-user.png)
+![Open the IAM user list]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-01-existing-user.png" >}})
 
 Enter a dedicated workshop user name. Console access is optional when the AWS CLI is the primary deployment tool.
 
-![Specify the IAM user details](/images/5-Workshop/5.2-Prerequisite/iam-02-user-details.png)
+![Specify the IAM user details]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-02-user-details.png" >}})
 
 For the original demo deployment, the team attached `AdministratorAccess` temporarily so CDK could create the complete stack. This is historical workshop evidence, not a production recommendation. A production account should use a scoped deployment role and remove the temporary policy after deployment.
 
-![Attach deployment permissions](/images/5-Workshop/5.2-Prerequisite/iam-03-permissions.png)
+![Attach deployment permissions]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-03-permissions.png" >}})
 
 Review the user and policy before choosing **Create user**.
 
-![Review the IAM user](/images/5-Workshop/5.2-Prerequisite/iam-04-review-create.png)
+![Review the IAM user]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-04-review-create.png" >}})
 
 Confirm that the new user appears in the IAM user list.
 
-![IAM user created](/images/5-Workshop/5.2-Prerequisite/iam-05-user-created.png)
+![IAM user created]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-05-user-created.png" >}})
 
 #### 4. Create CLI credentials
 
 Open the user's **Security credentials** tab and choose **Create access key**.
 
-![Open security credentials](/images/5-Workshop/5.2-Prerequisite/iam-06-security-credentials.png)
+![Open security credentials]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-06-security-credentials.png" >}})
 
 Choose **Command Line Interface (CLI)**, acknowledge the recommendation, and continue.
 
-![Choose the CLI use case](/images/5-Workshop/5.2-Prerequisite/iam-07-cli-use-case.png)
+![Choose the CLI use case]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-07-cli-use-case.png" >}})
 
 Add a description tag so the key has a clear owner and purpose.
 
-![Add an access-key description](/images/5-Workshop/5.2-Prerequisite/iam-08-key-description.png)
+![Add an access-key description]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-08-key-description.png" >}})
 
 Download the CSV once and store it outside the repository. The public screenshot is redacted because an access-key ID and secret must never be published.
 
-![Access key created with values redacted](/images/5-Workshop/5.2-Prerequisite/iam-09-key-created.png)
+![Access key created with values redacted]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-09-key-created.png" >}})
 
 {{% notice warning %}}
 Never commit either credentials CSV, `backend/.env`, an API key, an origin secret, or an AWS account identifier. Rotate or deactivate long-lived keys after the workshop.

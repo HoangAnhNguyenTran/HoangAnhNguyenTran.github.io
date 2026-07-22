@@ -14,9 +14,9 @@ CloudBrief là ứng dụng AWS theo hướng EC2-first để thu thập và tó
 
 #### Sơ đồ kiến trúc
 
-![Kiến trúc CloudBrief](/images/5-Workshop/cloudbrief-evidence/production-architecture.png)
+![Kiến trúc CloudBrief]({{< asseturl "images\5-Workshop\cloudbrief-evidence/production-architecture.png" >}})
 
-[Tải file draw.io](/attachments/cloudbrief-ec2-clean-aws.drawio)
+[Tải file draw.io]({{< asseturl "attachments/cloudbrief-ec2-clean-aws.drawio" >}})
 
 #### Luồng dữ liệu chính
 

@@ -18,7 +18,7 @@ Open the production site:
 - Login is required only for likes and comments.
 - The operations page uses a separate admin session and never embeds the admin API key.
 
-![Deployed CloudBrief article reader](/images/5-Workshop/cloudbrief-evidence/article-reader.png)
+![Deployed CloudBrief article reader](/images/5-workshop/cloudbrief-evidence/article-reader.png)
 
 #### Real article proof
 

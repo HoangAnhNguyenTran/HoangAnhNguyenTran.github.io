@@ -10,9 +10,9 @@ pre : " <b> 5.4.4 </b> "
 
 Stack đã deploy có alarm cho Auto Scaling capacity, ALB target health và 5xx response, EC2 CPU, cả bốn DLQ và Bedrock fallback. Alarm notification publish đến KMS-encrypted SNS topic.
 
-![CloudWatch alarms](/images/5-Workshop/cloudbrief-evidence/cloudwatch-alarms.png)
+![CloudWatch alarms](/images/5-workshop/cloudbrief-evidence/cloudwatch-alarms.png)
 
-![SNS notification topic](/images/5-Workshop/cloudbrief-evidence/sns-topic.png)
+![SNS notification topic](/images/5-workshop/cloudbrief-evidence/sns-topic.png)
 
 #### Read-only audit ngày 16/07/2026
 
@@ -33,6 +33,6 @@ AWS Backup bảo vệ các DynamoDB table durable. Notification cho account regi
 
 #### Bằng chứng budget
 
-![AWS Budgets evidence](/images/5-Workshop/cloudbrief-evidence/budget.png)
+![AWS Budgets evidence](/images/5-workshop/cloudbrief-evidence/budget.png)
 
 Budget notification là deployment gate vì ALB, NAT Gateway, interface endpoint, WAF và hai EC2 đều tạo chi phí định kỳ.

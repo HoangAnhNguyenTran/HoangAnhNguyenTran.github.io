@@ -14,9 +14,9 @@ The application collects candidate articles from RSS feeds and Hacker News, dedu
 
 #### Architecture diagram
 
-![CloudBrief architecture](/images/5-Workshop/cloudbrief-evidence/production-architecture.png)
+![CloudBrief architecture]({{< asseturl "images\5-Workshop\cloudbrief-evidence/production-architecture.png" >}})
 
-[Download draw.io source](/attachments/cloudbrief-ec2-clean-aws.drawio)
+[Download draw.io source]({{< asseturl "attachments/cloudbrief-ec2-clean-aws.drawio" >}})
 
 #### Main data flow
 

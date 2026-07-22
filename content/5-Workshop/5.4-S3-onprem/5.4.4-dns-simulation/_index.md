@@ -10,9 +10,9 @@ pre : " <b> 5.4.4 </b> "
 
 The deployed stack includes alarms for Auto Scaling capacity, ALB target health and 5xx responses, EC2 CPU, all four DLQs, and Bedrock fallback. Alarm notifications publish to a KMS-encrypted SNS topic.
 
-![CloudWatch alarms](/images/5-Workshop/cloudbrief-evidence/cloudwatch-alarms.png)
+![CloudWatch alarms](/images/5-workshop/cloudbrief-evidence/cloudwatch-alarms.png)
 
-![SNS notification topic](/images/5-Workshop/cloudbrief-evidence/sns-topic.png)
+![SNS notification topic](/images/5-workshop/cloudbrief-evidence/sns-topic.png)
 
 #### Read-only audit on 16 July 2026
 
@@ -33,6 +33,6 @@ AWS Backup protects durable DynamoDB tables. Account-registration and admin role
 
 #### Budget evidence
 
-![AWS Budgets evidence](/images/5-Workshop/cloudbrief-evidence/budget.png)
+![AWS Budgets evidence](/images/5-workshop/cloudbrief-evidence/budget.png)
 
 Budget notifications are part of the deployment gate because ALB, NAT Gateway, interface endpoints, WAF, and two EC2 instances are recurring cost drivers.

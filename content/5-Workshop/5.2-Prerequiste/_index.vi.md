@@ -141,41 +141,41 @@ Dự án deploy tại `us-east-1`. Amazon Bedrock cần cho phép model `amazon.
 
 Mở **IAM > Users**, sau đó chọn **Create user**.
 
-![Mở danh sách IAM user](/images/5-Workshop/5.2-Prerequisite/iam-01-existing-user.png)
+![Mở danh sách IAM user]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-01-existing-user.png" >}})
 
 Nhập tên user dành riêng cho workshop. Console access là tùy chọn nếu AWS CLI là công cụ deploy chính.
 
-![Nhập thông tin IAM user](/images/5-Workshop/5.2-Prerequisite/iam-02-user-details.png)
+![Nhập thông tin IAM user]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-02-user-details.png" >}})
 
 Trong lần deploy demo ban đầu, nhóm tạm gắn `AdministratorAccess` để CDK tạo đầy đủ stack. Đây là bằng chứng lịch sử của workshop, không phải khuyến nghị production. Tài khoản production nên dùng deployment role giới hạn quyền và gỡ policy tạm sau khi deploy.
 
-![Gắn quyền deploy](/images/5-Workshop/5.2-Prerequisite/iam-03-permissions.png)
+![Gắn quyền deploy]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-03-permissions.png" >}})
 
 Kiểm tra lại user và policy trước khi chọn **Create user**.
 
-![Kiểm tra IAM user](/images/5-Workshop/5.2-Prerequisite/iam-04-review-create.png)
+![Kiểm tra IAM user]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-04-review-create.png" >}})
 
 Xác nhận user mới xuất hiện trong danh sách IAM.
 
-![IAM user đã được tạo](/images/5-Workshop/5.2-Prerequisite/iam-05-user-created.png)
+![IAM user đã được tạo]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-05-user-created.png" >}})
 
 #### 4. Tạo credential cho AWS CLI
 
 Mở tab **Security credentials** của user và chọn **Create access key**.
 
-![Mở security credentials](/images/5-Workshop/5.2-Prerequisite/iam-06-security-credentials.png)
+![Mở security credentials]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-06-security-credentials.png" >}})
 
 Chọn **Command Line Interface (CLI)**, xác nhận khuyến nghị và tiếp tục.
 
-![Chọn use case CLI](/images/5-Workshop/5.2-Prerequisite/iam-07-cli-use-case.png)
+![Chọn use case CLI]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-07-cli-use-case.png" >}})
 
 Thêm description tag để key có owner và mục đích rõ ràng.
 
-![Thêm mô tả cho access key](/images/5-Workshop/5.2-Prerequisite/iam-08-key-description.png)
+![Thêm mô tả cho access key]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-08-key-description.png" >}})
 
 Chỉ tải CSV một lần và lưu ngoài repository. Ảnh public đã che access-key ID và secret vì các giá trị này không được công khai.
 
-![Access key đã tạo và được che giá trị](/images/5-Workshop/5.2-Prerequisite/iam-09-key-created.png)
+![Access key đã tạo và được che giá trị]({{< asseturl "images/5-Workshop/5.2-Prerequisite/iam-09-key-created.png" >}})
 
 {{% notice warning %}}
 Không commit hai file credentials CSV, `backend/.env`, API key, origin secret hoặc AWS account identifier. Hãy rotate hoặc deactivate long-lived key sau workshop.

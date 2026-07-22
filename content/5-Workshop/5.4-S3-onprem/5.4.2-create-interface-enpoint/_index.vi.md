@@ -48,7 +48,7 @@ Worker nhận ảnh publisher PNG, JPEG hoặc WebP, validate và convert sang W
 
 Live response ngày 16/07 trả về năm article Hacker News. Cả năm đều có canonical publisher URL, status `SUMMARIZED` và processed CloudFront WebP cover URL. Một title đã verify là **Bluesky Trademarks ATProto** từ trang AT Protocol.
 
-![API smoke test đã pass](/images/5-Workshop/cloudbrief-evidence/api-smoke-ok.png)
+![API smoke test đã pass](/images/5-workshop/cloudbrief-evidence/api-smoke-ok.png)
 
 #### Kết quả Bedrock
 
