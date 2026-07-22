@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2026-07-21
+date: 2026-07-22
 weight: 1
 chapter: false
 ---
@@ -13,13 +13,16 @@ Welcome to my online graduation internship report website for the First Cloud AI
 
 ## Internship Information
 
-- Full Name: Nguyen Tran Hoang Anh
-- University: HUTECH - Faculty of Information Technology
-- Major: Software Engineering
-- Internship Program: First Cloud AI Journey (FCAJ)
-- Internship Organization: Amazon Web Services Viet Nam Company Limited
-- Industry Mentor: Nguyen Gia Hung
-- Academic Supervisor: Nguyen Hoang Nam (HUTECH)
+&emsp; **Full Name:** Nguyen Tran Hoang Anh
+&emsp; **Phone Number:** 0786122348
+&emsp; **Email:** nguyentranhoanganhk4@gmail.com
+&emsp; **University:** HUTECH - Faculty of Information Technology
+&emsp; **Major:** Software Engineering
+&emsp; **Class:** 22DTHH3/AWS052026
+&emsp; **Internship Program:** First Cloud AI Journey (FCAJ)
+&emsp; **Internship Organization:** Amazon Web Services Viet Nam Company Limited
+&emsp; **Industry Mentor:** Nguyen Gia Hung
+&emsp; **Academic Supervisor:** Nguyen Hoang Nam (HUTECH)
 
 ## Quick Navigation
 
