@@ -43,7 +43,7 @@ Amazon's solution is divided into two major architectural parts:
 
 **Figure 1. Cell-based architecture diagram showing how customer requests are routed to Amazon OpenSearch Service domains via hash-based partitioning**
 
-![Figure 1](/images/3-blogsposted/Cell-based-arch-blog.png)
+![Figure 1](/images/3-Blogsposted/Cell-based-arch-blog.png)
 
 ### Scalability and Resiliency: Cell-Based Architecture
 
@@ -59,7 +59,7 @@ Implementing the core semantic search features involved several key decisions an
 
 **Figure 2. Read-flow and write-flow for semantic search using Amazon OpenSearch Service and Amazon SageMaker embedding vectors**
 
-![Figure 2](/images/3-blogsposted/SageMakerFlow.png)
+![Figure 2](/images/3-Blogsposted/SageMakerFlow.png)
 
 #### 1. Model Evaluation & Selection
 
@@ -93,9 +93,10 @@ graph TD
     Lexical --> Merge[Merge & Normalize Scores]
     Semantic --> Merge
     Merge --> Sort[Sort by Relevance Score]
-    Sort --> Results[Final Top K Results] 
-    
+    Sort --> Results[Final Top K Results]
+
 ```
+
 **Parallel Execution:** Both queries run concurrently.
 **Score Normalization:** OpenSearch normalizes and merges relevance scores.
 **Fallback for Identifiers:** In cases where semantic search is not suitable (e.g., searching by `orderId`), the system relies solely on keyword matching.
@@ -117,7 +118,7 @@ Billions of documents were successfully processed at ingestion rates multiple ti
 
 The deployment of semantic search yielded significant improvements in search quality and business metrics:
 
-**Improved Customer Experience:** Customers can now search for things like *"sustainable utensils"* and find wooden spoons, or search *"chargers"* and retrieve wall connectors, even if the keyword *"charger"* is missing from the title.
+**Improved Customer Experience:** Customers can now search for things like _"sustainable utensils"_ and find wooden spoons, or search _"chargers"_ and retrieve wall connectors, even if the keyword _"charger"_ is missing from the title.
 **10% Improvement in Query Recall:** Increasing the relevance and percentage of searches that return correct results.
 **20% Improvement in Query Success Rate:** More searches now return at least one relevant item.
 **48% Enhanced Result Coverage:** Semantic search surfaces extra relevant matches that lexical search would have completely missed.
@@ -130,8 +131,10 @@ The deployment of semantic search yielded significant improvements in search qua
 By evolving Amazon's order history search to support semantic capabilities, the team successfully bridged cutting-edge AI technologies with robust, high-scale legacy infrastructure. Utilizing **Amazon OpenSearch Service** and **Amazon SageMaker**, the solution maintains strict SLAs and zero downtime while processing billions of customer records.
 
 To get started with building your own semantic search applications, you can explore:
-* Exact k-NN search in OpenSearch
-* Amazon OpenSearch Service Developer Guide
+
+- Exact k-NN search in OpenSearch
+- Amazon OpenSearch Service Developer Guide
 
 ---
+
 **Reference Link:** [https://www.facebook.com/share/p/191tDRSXB7/](https://www.facebook.com/share/p/191tDRSXB7/)
