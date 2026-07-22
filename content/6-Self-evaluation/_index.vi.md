@@ -6,24 +6,26 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong quá trình thực tập tại Công ty TNHH Amazon Web Services Việt Nam, tôi có cơ hội học tập, thực hành và áp dụng kiến thức đã được trang bị ở trường vào môi trường làm việc thực tế. Thông qua lộ trình 11 tuần của chương trình First Cloud AI Journey, tôi không chỉ tiếp cận các dịch vụ AWS nền tảng mà còn trực tiếp tham gia vào việc xây dựng, kiểm thử và hoàn thiện phần nội dung workshop cho dự án nhóm CloudBrief.
+Trong thời gian thực tập tại chương trình First Cloud AI Journey (FCAJ) do Công ty Amazon Web Services Việt Nam tổ chức, **từ ngày 05/05/2026 đến ngày 30/07/2026**, tôi đã có cơ hội làm việc trong môi trường chuyên nghiệp và vận dụng những kiến thức đã học tại trường vào các tình huống thực tế trong lĩnh vực điện toán đám mây. Với sự hướng dẫn người hướng dẫn tại doanh nghiệp là anh Nguyễn Gia Hùng, tôi không chỉ nâng cao kiến thức chuyên môn mà còn rèn luyện được nhiều kỹ năng cần thiết cho công việc sau này.
 
-Quá trình này giúp tôi phát triển đồng thời kiến thức chuyên môn, tư duy triển khai hệ thống trên cloud, khả năng làm việc nhóm và kỹ năng trình bày kỹ thuật. Dựa trên những gì đã thực hiện trong suốt kỳ thực tập, tôi tự đánh giá bản thân như sau.
+Trong suốt quá trình thực tập, tôi đã tham gia triển khai hạ tầng trên nền tảng AWS, cấu hình các dịch vụ mạng và bảo mật, xây dựng kiến trúc ứng dụng có tính sẵn sàng cao, đồng thời phối hợp với các thành viên trong nhóm để hoàn thành các bài thực hành và dự án theo hình thức workshop. Những trải nghiệm này giúp tôi hiểu rõ hơn về quy trình triển khai hạ tầng đám mây, nâng cao khả năng tự học, làm việc nhóm và thích nghi với môi trường làm việc thực tế. Tôi luôn cố gắng hoàn thành đầy đủ các nhiệm vụ được giao, tuân thủ quy định của chương trình và chủ động tiếp thu các góp ý từ người hướng dẫn để cải thiện năng lực bản thân.
 
-## Đánh giá tổng quan
+Dưới đây là phần tự đánh giá của tôi về quá trình thực tập:
 
-Tôi đánh giá kỳ thực tập này là một giai đoạn phát triển tích cực cả về chiều rộng kiến thức lẫn mức độ va chạm thực tế. Ban đầu, tôi tiếp cận AWS chủ yếu ở mức học phần và lab riêng lẻ. Sau khi tham gia FCAJ, tôi hiểu rõ hơn cách các dịch vụ như VPC, EC2, S3, IAM, CloudWatch, SQS, DynamoDB và Bedrock kết nối với nhau để tạo thành một hệ thống hoàn chỉnh có tính bảo mật, khả năng mở rộng và khả năng vận hành thực tế.
-
-## Tự đánh giá theo tiêu chí
-
-| Tiêu chí              | Mức tự đánh giá | Nhận xét                                                                                                     |
-| --------------------- | --------------- | ------------------------------------------------------------------------------------------------------------ |
-| Kiến thức chuyên môn  | Tốt             | Nắm được các thành phần cloud cốt lõi và hiểu cách áp dụng vào một kiến trúc triển khai thực tế.             |
-| Khả năng học hỏi      | Tốt             | Có thể tiếp thu nhanh nội dung mới qua workshop, tài liệu AWS và phần việc được giao theo từng tuần.         |
-| Tính chủ động         | Khá tốt         | Chủ động ghi nhận minh chứng, kiểm tra lại cấu hình và tự hoàn thiện nội dung báo cáo.                       |
-| Trách nhiệm công việc | Tốt             | Bám theo lộ trình thực tập, hoàn thành các đầu việc đúng hướng và có lưu lại kết quả rõ ràng.                |
-| Kỹ năng phối hợp nhóm | Tốt             | Có cải thiện trong việc trao đổi, đồng bộ nội dung workshop và bám kiến trúc chung của dự án.                |
-| Kỹ năng xử lý vấn đề  | Khá             | Đã biết cách phân tích nguyên nhân ở mức cơ bản, nhưng vẫn cần tăng tốc khi gặp lỗi liên quan nhiều dịch vụ. |
+| STT | Tiêu chí đánh giá                       | Mô tả                                                                | Tốt | Khá | Trung bình |
+| --- | --------------------------------------- | -------------------------------------------------------------------- | :-: | :-: | :--------: |
+| 1   | Kiến thức và kỹ năng chuyên môn         | Khả năng vận dụng kiến thức và sử dụng các dịch vụ AWS trong thực tế | ✅  |  ☐  |     ☐      |
+| 2   | Khả năng tiếp thu                       | Tiếp cận công nghệ mới và học hỏi nhanh trong quá trình thực tập     | ✅  |  ☐  |     ☐      |
+| 3   | Tính chủ động                           | Chủ động tìm hiểu, thực hiện công việc và hỗ trợ nhóm                | ✅  |  ☐  |     ☐      |
+| 4   | Tinh thần trách nhiệm                   | Hoàn thành nhiệm vụ đúng thời hạn và đảm bảo chất lượng              | ✅  |  ☐  |     ☐      |
+| 5   | Ý thức kỷ luật                          | Tuân thủ thời gian làm việc và các quy định của chương trình         |  ☐  | ✅  |     ☐      |
+| 6   | Tinh thần cầu tiến                      | Tiếp thu góp ý và không ngừng hoàn thiện bản thân                    | ✅  |  ☐  |     ☐      |
+| 7   | Kỹ năng giao tiếp                       | Trao đổi công việc và báo cáo tiến độ rõ ràng                        |  ☐  | ✅  |     ☐      |
+| 8   | Kỹ năng làm việc nhóm                   | Phối hợp hiệu quả với các thành viên trong nhóm                      | ✅  |  ☐  |     ☐      |
+| 9   | Tác phong chuyên nghiệp                 | Thể hiện sự nghiêm túc, tôn trọng đồng nghiệp và môi trường làm việc | ✅  |  ☐  |     ☐      |
+| 10  | Khả năng phân tích và giải quyết vấn đề | Phân tích sự cố và đề xuất hướng xử lý phù hợp                       |  ☐  | ✅  |     ☐      |
+| 11  | Mức độ đóng góp                         | Đóng góp tích cực vào tiến độ và kết quả chung của nhóm              | ✅  |  ☐  |     ☐      |
+| 12  | Đánh giá chung                          | Đánh giá tổng thể về kết quả thực tập                                | ✅  |  ☐  |     ☐      |
 
 ## Điểm mạnh
 

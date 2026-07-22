@@ -6,24 +6,26 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at Amazon Web Services Vietnam Co., Ltd., I had the opportunity to learn, practice, and apply what I studied at university in a real working environment. Through the 11-week First Cloud AI Journey program, I not only worked with core AWS services but also directly contributed to building, validating, and refining the workshop content for our team project, CloudBrief.
+During my internship in the First Cloud AI Journey (FCAJ) program organized by Amazon Web Services Vietnam Co., Ltd., **from May 5, 2026 to July 30, 2026**, I had the opportunity to experience a professional working environment and apply the theoretical knowledge gained at university to practical cloud computing projects. Under the guidance of my industry mentor, Mr. Nguyen Gia Hung, I strengthened my technical knowledge while developing essential workplace skills.
 
-This process helped me develop technical knowledge, cloud system implementation thinking, collaboration skills, and technical communication. Based on what I completed throughout the internship, my self-assessment is as follows.
+Throughout the internship, I participated in deploying cloud infrastructure on AWS, configuring networking and security services, building a highly available web application architecture, and collaborating with teammates on workshop-based assignments. These activities enhanced my understanding of cloud architecture, infrastructure management, documentation practices, collaboration, and independent learning. I consistently completed assigned tasks responsibly, respected the internship regulations, and actively sought feedback from mentors and teammates to continuously improve my performance.
 
-## Overall Assessment
+To summarize my internship experience, I provide the following self-evaluation:
 
-I consider this internship a highly productive growth phase in both breadth of knowledge and real-world exposure. At first, my AWS experience was mostly limited to course modules and isolated labs. After joining FCAJ, I gained a clearer understanding of how services such as VPC, EC2, S3, IAM, CloudWatch, SQS, DynamoDB, and Bedrock work together as a complete system with practical security, scalability, and operations.
-
-## Criteria-Based Self-Evaluation
-
-| Criteria               | Self-rating | Remarks                                                                                             |
-| ---------------------- | ----------- | --------------------------------------------------------------------------------------------------- |
-| Professional knowledge | Good        | I understand core cloud components and can apply them in a practical architecture.                  |
-| Learning ability       | Good        | I can absorb new content quickly through workshops, AWS documentation, and weekly assignments.      |
-| Proactiveness          | Fairly good | I proactively documented evidence, rechecked configurations, and refined report content.            |
-| Responsibility         | Good        | I followed the internship roadmap and completed tasks with clear, traceable outputs.                |
-| Team collaboration     | Good        | I improved communication and content alignment for the shared workshop deliverables.                |
-| Problem-solving        | Fair        | I can perform baseline root-cause analysis but still need faster handling for multi-service issues. |
+| No. | Evaluation Criteria                 | Description                                                            | Good | Fair | Average |
+| --- | ----------------------------------- | ---------------------------------------------------------------------- | :--: | :--: | :-----: |
+| 1   | Technical knowledge                 | Understanding cloud concepts and applying technical skills in practice |  ✅  |  ☐   |    ☐    |
+| 2   | Learning ability                    | Quickly adapting to new technologies and acquiring new knowledge       |  ✅  |  ☐   |    ☐    |
+| 3   | Initiative                          | Taking ownership of assigned work and actively supporting the team     |  ✅  |  ☐   |    ☐    |
+| 4   | Responsibility                      | Delivering assigned tasks on schedule with acceptable quality          |  ✅  |  ☐   |    ☐    |
+| 5   | Discipline                          | Following working hours, internship policies, and internal procedures  |  ☐   |  ✅  |    ☐    |
+| 6   | Continuous improvement              | Accepting feedback and making efforts to improve performance           |  ✅  |  ☐   |    ☐    |
+| 7   | Communication                       | Communicating technical ideas and reporting progress effectively       |  ☐   |  ✅  |    ☐    |
+| 8   | Team collaboration                  | Cooperating effectively with teammates in project activities           |  ✅  |  ☐   |    ☐    |
+| 9   | Professional attitude               | Demonstrating respect, responsibility, and professionalism             |  ✅  |  ☐   |    ☐    |
+| 10  | Analytical & problem-solving skills | Identifying issues and proposing practical solutions                   |  ☐   |  ✅  |    ☐    |
+| 11  | Contribution to the team            | Supporting project objectives and contributing to team outcomes        |  ✅  |  ☐   |    ☐    |
+| 12  | Overall performance                 | Overall assessment of internship performance                           |  ✅  |  ☐   |    ☐    |
 
 ## Strengths
 

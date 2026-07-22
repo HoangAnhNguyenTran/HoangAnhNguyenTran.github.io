@@ -1,6 +1,6 @@
 baseURL = "https://hoanganhnguyentran.github.io/"
-relativeURLs = false
-canonifyURLs = false
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "en"
 theme = "hugo-theme-learn"
 
