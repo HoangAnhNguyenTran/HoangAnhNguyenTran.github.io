@@ -1,9 +1,9 @@
 ---
-title : "Verify the public magazine and article reader"
-date : 2024-01-01
-weight : 3
-chapter : false
-pre : " <b> 5.4.3 </b> "
+title: "Verify the public magazine and article reader"
+date: 2024-01-01
+weight: 3
+chapter: false
+pre: " <b> 5.4.3 </b> "
 ---
 
 Open the production site:
@@ -18,7 +18,7 @@ Open the production site:
 - Login is required only for likes and comments.
 - The operations page uses a separate admin session and never embeds the admin API key.
 
-![Deployed CloudBrief article reader](/images/5-workshop/cloudbrief-evidence/article-reader.png)
+![Deployed CloudBrief article reader](/images/5-Workshop/cloudbrief-evidence/article-reader.png)
 
 #### Real article proof
 

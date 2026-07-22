@@ -1,9 +1,9 @@
 ---
-title : "Project overview and architecture"
-date : 2024-01-01
-weight : 1
-chapter : false
-pre : " <b> 5.1. </b> "
+title: "Project overview and architecture"
+date: 2024-01-01
+weight: 1
+chapter: false
+pre: " <b> 5.1. </b> "
 ---
 
 #### Project overview
@@ -14,7 +14,7 @@ The application collects candidate articles from RSS feeds and Hacker News, dedu
 
 #### Architecture diagram
 
-![CloudBrief architecture]({{< asseturl "images\5-Workshop\cloudbrief-evidence/production-architecture.png" >}})
+![CloudBrief architecture](/images/5-Workshop/cloudbrief-evidence/production-architecture.png)
 
 [Download draw.io source]({{< asseturl "attachments/cloudbrief-ec2-clean-aws.drawio" >}})
 

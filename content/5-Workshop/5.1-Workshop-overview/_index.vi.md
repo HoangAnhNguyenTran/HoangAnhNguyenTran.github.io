@@ -1,9 +1,9 @@
 ---
-title : "Tổng quan dự án và kiến trúc"
-date : 2024-01-01
-weight : 1
-chapter : false
-pre : " <b> 5.1. </b> "
+title: "Tổng quan dự án và kiến trúc"
+date: 2024-01-01
+weight: 1
+chapter: false
+pre: " <b> 5.1. </b> "
 ---
 
 #### Tổng quan dự án
@@ -14,7 +14,7 @@ CloudBrief là ứng dụng AWS theo hướng EC2-first để thu thập và tó
 
 #### Sơ đồ kiến trúc
 
-![Kiến trúc CloudBrief]({{< asseturl "images\5-Workshop\cloudbrief-evidence/production-architecture.png" >}})
+![Kiến trúc CloudBrief](/images/5-Workshop/cloudbrief-evidence/production-architecture.png)
 
 [Tải file draw.io]({{< asseturl "attachments/cloudbrief-ec2-clean-aws.drawio" >}})
 

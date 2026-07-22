@@ -1,9 +1,9 @@
 ---
-title : "Verify magazine và article reader public"
-date : 2024-01-01
-weight : 3
-chapter : false
-pre : " <b> 5.4.3 </b> "
+title: "Verify magazine và article reader public"
+date: 2024-01-01
+weight: 3
+chapter: false
+pre: " <b> 5.4.3 </b> "
 ---
 
 Mở production site:
@@ -18,7 +18,7 @@ Mở production site:
 - Chỉ like và comment mới cần login.
 - Operations page dùng admin session riêng và không embed admin API key.
 
-![CloudBrief article reader đã deploy](/images/5-workshop/cloudbrief-evidence/article-reader.png)
+![CloudBrief article reader đã deploy](/images/5-Workshop/cloudbrief-evidence/article-reader.png)
 
 #### Bằng chứng article thật
 
