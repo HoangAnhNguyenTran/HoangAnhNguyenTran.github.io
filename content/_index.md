@@ -29,7 +29,7 @@ Welcome to my online graduation internship report website for the First Cloud AI
 
 &emsp; **Internship Organization:** Amazon Web Services Viet Nam Company Limited
 
-&emsp; **Industry Mentor:** Nguyen Gia Hung
+&emsp; **Industry Mentor:** Lu Hoan Thien
 
 &emsp; **Academic Supervisor:** Nguyen Hoang Nam (HUTECH)
 

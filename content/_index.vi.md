@@ -29,7 +29,7 @@ chapter: false
 
 &emsp; **Đơn vị thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 
-&emsp; **Cán bộ hướng dẫn tại đơn vị:** Nguyễn Gia Hưng
+&emsp; **Cán bộ hướng dẫn tại đơn vị:** Lữ Hoàn Thiện
 
 &emsp; **Giảng viên hướng dẫn tại trường:** Nguyễn Hoàng Nam (HUTECH)
 
